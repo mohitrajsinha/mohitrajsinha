@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I love airplanes more than computers**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohitrsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitrsinha" height="30" width="40" /></a>
@@ -32,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitrajsinha&show_icons=true&locale=en&layout=compact" alt="mohitrajsinha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitrajsinha&show_icons=true&locale=en" alt="mohitrajsinha" /></p>
+[![mohitrajsinha's GitHub | Stats](https://stats.quine.sh/mohitrajsinha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mohitrajsinha)  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrajsinha&" alt="mohitrajsinha" /></p>
